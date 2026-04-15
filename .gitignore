@@ -1,0 +1,7 @@
+.env
+node_modules/
+Usuarios.png
+dist/
+build/
+.angular/
+.vscode/
